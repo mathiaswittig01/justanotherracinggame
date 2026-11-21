@@ -1,8 +1,8 @@
-# Privacy Policy for Just Another Racing Game
+# Privacy Policy for JARG - Just A Racing Game
  
 **Last updated:** August 5, 2026
  
-Penzkofer & Wittig GbR ("we," "us," or "our") operates the mobile game **Just Another Racing Game** (the "App"). This Privacy Policy explains what information the App does and does not collect, and how it is used.
+Penzkofer & Wittig GbR ("we," "us," or "our") operates the mobile game **JARG - Just A Racing Game** (the "App"). This Privacy Policy explains what information the App does and does not collect, and how it is used.
  
 ## 1. Summary
  
